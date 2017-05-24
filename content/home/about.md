@@ -40,3 +40,5 @@ weight = 1
 # Biography
 
 Jinlai Xu is a PhD student of Information Science at University of Pittsburgh. His research interests include Distributed Systems, Fog/Edge and Cloud Computing, Computer Vision and Robotics. 
+
+<a href="cv_XuJinlai.pdf" class="btn btn-info">Full Curriculum Vitae</a>
