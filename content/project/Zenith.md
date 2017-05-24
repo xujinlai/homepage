@@ -32,3 +32,6 @@ caption = "Proposed Decoupled Edge Computing Architecture: *Zenith* :smile:"
 Fog/Edge Computing is emerging to fill the gap between the Cloud and the end-points. 
 
 *Zenith* decouples the **Resource Allocation** and **Service Provisioning and Management** at the edge, which provides a novel model to allocate the resources at the edge to both maximize the utility of the service providers and the profits of the edge infrastructure providers. This model also increase the overall efficiency by allowing all the resources to be shared with the service providers which is represented in the simulations. 
+
+###**Publications**
+ + Jinlai Xu, Balaji Palanisamy, Heiko Ludwig, Qingyang Wang (2017). [Zenith: Utility-aware Resource Allocation for Edge Computing](https://www.researchgate.net/publication/317097920_Zenith_Utility-aware_Resource_Allocation_for_Edge_Computing), IEEE Edge 2017.
