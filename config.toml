@@ -28,7 +28,7 @@ defaultContentLanguageInSubdir = false
   avatar = "avatar.jpg"
   email = "jinlai.xu@pitt.edu"
   address = "Information Sciences Bldg Room 410, 135 N Bellefield Ave, Pittsburgh, PA 15213, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  office_hours = ""
   phone = ""
   skype = ""
   telegram = ""
@@ -87,7 +87,7 @@ defaultContentLanguageInSubdir = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = []
+  custom_css = ["custom.css"]
   custom_js  = []
 
   # Publication types.
@@ -170,10 +170,10 @@ defaultContentLanguageInSubdir = false
   url = "#publications_selected"
   weight = 2
 
-#[[menu.main]]
-#  name = "Posts"
-#  url = "#posts"
-#  weight = 3
+[[menu.main]]
+  name = "Recent Posts"
+  url = "#posts"
+  weight = 3
 
 [[menu.main]]
   name = "Projects"
