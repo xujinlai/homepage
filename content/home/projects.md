@@ -26,8 +26,8 @@ view = 1
   tag = "*"
   
 [[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
+  name = "Fog/Edge Computing"
+  tag = ".edge"
 
 [[filter]]
   name = "Other"

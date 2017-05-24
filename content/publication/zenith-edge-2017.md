@@ -14,7 +14,7 @@ title = "Zenith: Utility-aware Resource Allocation for Edge Computing"
 url_code = ""
 url_dataset = ""
 url_pdf = "https://www.researchgate.net/publication/317097920_Zenith_Utility-aware_Resource_Allocation_for_Edge_Computing"
-url_project = ""
+url_project = "project/zenith/"
 url_slides = ""
 url_video = ""
 
