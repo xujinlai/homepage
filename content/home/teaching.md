@@ -19,6 +19,7 @@ weight = 60
    + Cloud Computing (2017 Spring)
    + Instructor: Prof. [Balaji Palanisamy](http://www.sis.pitt.edu/bpalan/)
 
+
 + **Teaching Assistant** , September 2013 - January 2014
 + **China University of Geosciences**
    + Advanced Programming Language (JAVA)
