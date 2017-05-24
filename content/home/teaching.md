@@ -5,7 +5,7 @@
 date = "2016-04-20T00:00:00"
 draft = false
 
-title = "Teaching"
+title = "Teaching Experience"
 subtitle = ""
 widget = "custom"
 
@@ -14,14 +14,12 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+ + **Graduate Student Assistant** , September 2015 - Present
+ + **University of Pittsburgh**
+   + Cloud Computing (2017 Spring)
+   + Instructor: Prof. [Balaji Palanisamy](http://www.sis.pitt.edu/bpalan/)
 
-I am a teaching instructor for the following courses at University X:
-
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+ + **Teaching Assistant** , September 2013 - January 2014
+ + **China University of Geosciences**
+   + Advanced Programming Language (JAVA)
+   + Instructor: Prof. Shengwen Li
