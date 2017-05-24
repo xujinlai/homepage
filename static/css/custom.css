@@ -19,3 +19,14 @@
   background-color: #0288D1;
   color: #fff;
 }
+
+#profile .portrait {
+  background-image: url('../img/portrait.jpg');
+  width: 200px;
+  height: 300px;
+  margin: 0 auto;
+  border-radius: 15%;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+}
