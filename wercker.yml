@@ -16,6 +16,6 @@ build:
 
 deploy:
   steps:
-    - xujinlai.github.io/master:
+    - lukevivier/gh-pages:
         token: $GIT_TOKEN
         basedir: public
