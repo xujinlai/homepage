@@ -19,7 +19,7 @@ url_slides = ""
 url_video = ""
 
 [header]
-image = "headers/Intro - banner.png"
+image = "headers/Zenith-Intro - banner.png"
 caption = "Proposed Decoupled Edge Computing Architecture: *Zenith* :smile:"
 
 +++
