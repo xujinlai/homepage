@@ -1,2 +1,2 @@
-[![wercker status](https://app.wercker.com/status/bab162f99bf45fc4be84903a77779d71/m/master "wercker status")](https://app.wercker.com/project/byKey/bab162f99bf45fc4be84903a77779d71)
+[![wercker status](https://app.wercker.com/status/704f6c367a67e6445ad10a75cce55780/s/master "wercker status")](https://app.wercker.com/project/byKey/704f6c367a67e6445ad10a75cce55780)
 # homepage
