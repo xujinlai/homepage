@@ -19,3 +19,5 @@ deploy:
     - lukevivier/gh-pages:
         token: $GIT_TOKEN
         basedir: public
+		repo: xujinlai/xujinlai.github.io
+		domain: jinlaixu.net
