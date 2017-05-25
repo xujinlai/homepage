@@ -15,12 +15,13 @@ weight = 70
 +++
 
 + **Journal Review**
-    + One paper to Information Systems Frontiers (ISFI) : IRI - Special Issue on Foundations of Reuse
+    + Transactions on Services Computing (TSC)
+    + Information Systems Frontiers (ISFI) : IRI - Special Issue on Foundations of Reuse
 + **Conference Review**
-    + Three papers to International Workshop on Internet-scale Clouds and Big Data (ISCBD 2016)
-    + Two papers to IEEE International Conference on Communications (ICC 2015)
+    + International Workshop on Internet-scale Clouds and Big Data (ISCBD 2016)
+    + IEEE International Conference on Communications (ICC 2015)
 + **Journal External Review**
-    + One paper to Transactions on Services Computing (TSC)
+    + Transactions on Services Computing (TSC)
 + **Conference External Review**
     + ACM International Conference on Information and Knowledge Management (CIKM 2016)
 + **Conference Volunteer**
