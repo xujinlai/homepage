@@ -42,6 +42,6 @@ weight = 1
 Jinlai Xu is a PhD student of Information Science at University of Pittsburgh. His research interests include Distributed Systems, Fog/Edge and Cloud Computing, Computer Vision and Robotics. 
 His advisor is [Balaji Palanisamy](http://www.sis.pitt.edu/bpalan/)
 
-Before coming to University of Pittsburgh, he graduated from Chin University of Geosciences and his undergraduate and graduate advisor is [Zhongwen Luo](http://xgxy.cug.edu.cn/rjgcx/lzw/indexe.htm) .
+Before coming to University of Pittsburgh, he graduated from China University of Geosciences and his undergraduate and graduate advisor is [Zhongwen Luo](http://xgxy.cug.edu.cn/rjgcx/lzw/indexe.htm) .
 
 <a href="cv_XuJinlai.pdf" class="btn btn-info">Full Curriculum Vitae</a>
