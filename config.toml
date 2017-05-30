@@ -130,6 +130,11 @@ defaultContentLanguageInSubdir = false
     link = "mailto:jinlai.xu@pitt.edu"
 
   [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//www.linkedin.com/in/jinlaixu"
+
+  [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
     link = "//twitter.com/xujinlai"
