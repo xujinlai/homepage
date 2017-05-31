@@ -20,6 +20,18 @@
   color: #fff;
 }
 
+#top article div div.article-style pre {
+color: #4d4d4d;
+background: #f8f8f8;
+padding: 0 0em;
+border: 0px solid #d8d8d8;
+border-radius: 3px 3px;
+position: relative;
+top: -2px;
+margin: 0 3px;
+box-shadow: 2px 2px 0 #999;
+}
+
 #profile .portrait {
   background-image: url('../img/portrait.jpg');
   width: 200px;
@@ -30,3 +42,4 @@
   -webkit-background-size: cover;
   -moz-background-size: cover;
 }
+
