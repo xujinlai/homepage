@@ -7,7 +7,7 @@ math = true
 +++
 
 ## Intro
-I have moved my homepage to [Hugo](https://gohugo.io/) which I think is the fastest static website generator I think. 
+I have moved my homepage to [Hugo](https://gohugo.io/) which I think is the fastest static website generator. 
 On the other hand, I like the theme - [Acadmic](https://github.com/gcushen/hugo-academic) which is best for the persons who like me is in academia. 
 
 
