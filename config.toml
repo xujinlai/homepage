@@ -80,7 +80,7 @@ defaultContentLanguageInSubdir = false
   highlight = true
   highlight_languages = []
   highlight_style = "monokai-sublime"
-  highlight_version = "9.12.0"
+  # highlight_version = "9.12.0"
 
   # Enable native social sharing buttons?
   sharing = true
