@@ -1,5 +1,5 @@
 +++
-date = "2017-06-025T00:00:00"
+date = "2017-06-25"
 title = "Zenith: Utility-aware Resource Allocation for Edge Computing"
 abstract = ""
 abstract_short = ""
