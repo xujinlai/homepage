@@ -14,7 +14,7 @@ weight = 1
   interests = [
     "Fog/Edge Computing",
     "Cloud Computing",
-    "Machine Learning",
+    "Game Theory",
     "Computer Vision",
 	"Robotics"
   ]
