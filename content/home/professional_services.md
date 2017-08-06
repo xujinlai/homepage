@@ -25,6 +25,7 @@ weight = 70
 + **Conference External Review**
     + ACM International Conference on Information and Knowledge Management (CIKM 2016)
 + **Conference Volunteer**
+    +  IEEE $18^th$ International Conference on Information Reuse and Integration, San Diego, CA, USA. Aug 4-6, 2017
     +  The $37^th$ International Conference on Distributed Computing Systems (ICDCS 2017), Atlanta, GA, USA. June 5 - 8, 2017
     +  IEEE $17^{th}$ International Conference on Information Reuse and Integration (IRI 2016), Pittsburgh, PA, USA.  Jul 28 - 30, 2016
     +  IEEE $2^{ed}$ International Conference on Collaboration and Internet Computing (CIC 2016), Pittsburgh, PA, USA.  Nov 1 - 3, 2016
