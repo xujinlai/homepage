@@ -36,13 +36,13 @@ Fog/Edge Computing is emerging to fill the gap between the Cloud and the end-poi
 *Zenith* decouples the **Resource Allocation** and **Service Provisioning and Management** at the edge, which provides a novel model to allocate the resources at the edge to both maximize the utility of the service providers and the profits of the edge infrastructure providers. This model also increase the overall efficiency by allowing all the resources to be shared with the service providers which is represented in the simulations. 
 
 ## What is the challenge? 
- + Fair Resource Allocation between Multiple Service Providers
+ + Fair and Efficient Resource Allocation between Multiple Service Providers
  + Fast Service Discovery on Massive Micro Data Centers
 
 ## How Zenith Works?
  + Region Division by Weighted Vonoroi Diagram (WVD)
     + Service Discovery with Constant Time
-    + Natually Satisfies the Sensitive Latency Workloads
+    + Natually Satisfies the Latency-Sensitive Workloads with Nearest Service Discovery
     + Dynamically Balance the Workloads Between the Micro Data Centers with Ajusting the Weights for each Micro Data Centers
     + Easy and Fast to Update
  + Auction-based Resource Allocation
@@ -50,7 +50,7 @@ Fog/Edge Computing is emerging to fill the gap between the Cloud and the end-poi
     + Budget Balance: Keeps the Federation with Sustainable Development
     + Naturally Finds the Equilibrium Between the Supply and Demand
  + Resource Sharing Contracts
-    + Relative Long Time Contracts Avoid Frequently Migration
+    + Relative Long Time Contracts Avoid Frequent Migrations
     + Stable Running Environment Suits the Requirements for Latency-Sensitive Workloads
 
 **Publications**
