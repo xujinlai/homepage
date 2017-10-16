@@ -1,9 +1,13 @@
 +++
-date = "2017-05-31T10:00:00"
+date = 2017-05-31
+lastmod = 2017-10-15
 draft = false
 tags = []
 title = "Move to Hugo"
 math = true
+summary = """
+Move to Hugo
+"""
 +++
 
 ## Intro

@@ -4,7 +4,9 @@ copyright = "&copy; 2017 Jinlai Xu"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
-
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+preserveTaxonomyNames = true
+paginate = 10
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = "xujinlai"
@@ -16,16 +18,31 @@ googleAnalytics = "UA-46212341-5"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
+[outputs]
+  home = [ "HTML", "CSS" ]
+
 [blackfriday]
   hrefTargetBlank = true
 
-
 [params]
+  # Color theme.
+  #   Choose from `default`, `ocean`, `forest`, or `coffee`.
+  color_theme = "default"
+  
+  # Font style.
+  #   Choose from `default`, `classic`, or `playfair`.
+  font = "default"
+  
+  # Your details.
   name = "Jinlai Xu (徐锦来)"
   role = "PhD Student"
-  organization = "University of Pittsburgh"
-  organization_url = ""
-  avatar = "avatar.jpg"
+
+  # Organizations/Affiliations.
+  #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
+  organizations = [ { name = "University of Pittsburgh", url = "" } ]
+
+  gravatar = false  # Get your avatar from Gravatar.com? (true/false)
+  avatar = "avatar.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "jinlai.xu@pitt.edu"
   address = "Information Sciences Bldg Room 410, 135 N Bellefield Ave, Pittsburgh, PA 15213, USA"
   office_hours = ""
@@ -35,14 +52,31 @@ defaultContentLanguageInSubdir = false
 
   # Enable Keybase in Contact section by entering your keybase.io username.
   keybase = ""
+  
+  # Enable Google Maps by entering your API key, latitude, and longitude.
+  #   Get your API key: https://developers.google.com/maps/documentation/javascript/get-api-key
+  #   Get your coords: Right-click place on Google Maps. Select 'What's here?'. At the bottom is a card with the coords.
+  #   Disable Google Maps by clearing all three options to "".
+  google_maps_api_key = "AIzaSyCyUykjh2jO0V_zgje-GbdrjIahKHiCrqM"
+  latitude = "40.447410"
+  longitude = "-79.952636"
 
   # Date format (refer to Go's date format: http://flippinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
   date_format = "Mon, Jan 2, 2006"
+  
+  # Show estimated reading time for posts?
+  reading_time = true
+
+  # Display comment count? Requires commenting to be enabled.
+  comment_count = true
+  
+  # Display section pager for posts?
+  section_pager = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = true
+  math = false
 
   # Highlight.js options
   #   highlight
