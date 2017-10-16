@@ -31,7 +31,7 @@ view = 1
   
 [[filter]]
   name = "Privacy"
-  tag = ".Privacy"
+  tag = ".privacy"
 
 [[filter]]
   name = "Other"

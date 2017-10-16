@@ -1,6 +1,6 @@
 +++
 # Recent Publications widget.
-# Note: this widget will only display if `content/publication/` contains publications.
+# This widget displays recent publications from `content/publication/`.
 
 date = 2016-04-20
 draft = false
@@ -32,6 +32,5 @@ list_format = 3
 #  5: Book
 #  6: Book chapter
 publication_type = "-1"
-
 +++
 
