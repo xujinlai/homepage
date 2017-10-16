@@ -10,12 +10,15 @@ publication_short = "In IEEE Edge 2017"
 publication_types = ["1"]
 selected = true
 title = "Zenith: Utility-aware Resource Allocation for Edge Computing"
-url_code = "#"
-url_dataset = "#"
+url_code = ""
+url_dataset = ""
 url_pdf = "https://www.researchgate.net/publication/317097920_Zenith_Utility-aware_Resource_Allocation_for_Edge_Computing"
 url_project = "project/zenith/"
 url_slides = "https://drive.google.com/file/d/0B9qw8YyWZEzKQzhuTWt1c2htSVE/view?usp=sharing"
-url_video = "#"
+url_video = ""
+url_poster = ""
+url_preprint = ""
+url_source = ""
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
