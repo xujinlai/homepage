@@ -5,9 +5,6 @@ draft = false
 tags = []
 title = "Move to Hugo"
 math = true
-summary = """
-Move to Hugo
-"""
 +++
 
 ## Intro
