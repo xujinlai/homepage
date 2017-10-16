@@ -3,21 +3,21 @@ abstract = "In the Internet of Things(IoT) era, the demands for low-latency comp
 abstract_short = "In this paper, we propose Zenith, a novel model for allocating computing resources in an edge computing platform that allows service providers to establish resource sharing contracts with edge infrastructure providers apriori. Based on the established contracts, service providers employ a latency-aware scheduling and resource provisioning algorithm that enables tasks to complete and meet their latency requirements. The proposed techniques are evaluated through extensive experiments that demonstrate the effectiveness, scalability and performance efficiency of the proposed model."
 authors = ["Jinlai Xu", "Balaji Palanisamy", "Heiko Ludwig", "Qingyang Wang"]
 date = "2017-06-25"
-highlight = true
 image_preview = ""
 math = false
 publication = "In *1st IEEE Internetional Conference on Edge Computing (IEEE Edge 2017)*."
-publication_short = "IEEE Edge 2017"
+publication_short = "In IEEE Edge 2017"
 publication_types = ["1"]
 selected = true
 title = "Zenith: Utility-aware Resource Allocation for Edge Computing"
-url_code = ""
-url_dataset = ""
+url_code = "#"
+url_dataset = "#"
 url_pdf = "https://www.researchgate.net/publication/317097920_Zenith_Utility-aware_Resource_Allocation_for_Edge_Computing"
 url_project = "project/zenith/"
 url_slides = "https://drive.google.com/file/d/0B9qw8YyWZEzKQzhuTWt1c2htSVE/view?usp=sharing"
-url_video = ""
+url_video = "#"
 
+# Optional featured image (relative to `static/img/` folder).
 [header]
 image = "headers/Zenith-Intro - banner.png"
 caption = "Proposed Decoupled Edge Computing Architecture: *Zenith* :smile:"
