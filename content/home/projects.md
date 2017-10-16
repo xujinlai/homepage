@@ -28,6 +28,10 @@ view = 1
 [[filter]]
   name = "Fog/Edge Computing"
   tag = ".edge"
+  
+[[filter]]
+  name = "Privacy"
+  tag = ".Privacy"
 
 [[filter]]
   name = "Other"
