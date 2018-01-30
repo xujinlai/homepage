@@ -16,7 +16,8 @@ weight = 60
 
 + **Graduate Student Assistant** , September 2015 - Present
 + **University of Pittsburgh**
-    + Cloud Computing (2017 Spring)
+    + Cloud Computing (2017 Spring, 2018 Spring)
+	+ Information Security & Privacy (2017 Fall)
     + Instructor: Prof. [Balaji Palanisamy](http://www.sis.pitt.edu/bpalan/)
 + **Teaching Assistant** , September 2013 - January 2014
 + **China University of Geosciences**
