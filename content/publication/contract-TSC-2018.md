@@ -14,7 +14,7 @@ title = "Optimized Contract-based Model for Resource Allocation in Federated Geo
 url_code = ""
 url_dataset = ""
 url_pdf = "http://www.sis.pitt.edu/~bpalan/papers/TSC-2018.pdf"
-url_project = ""
+url_project = "project/contracts/"
 url_slides = ""
 url_video = ""
 

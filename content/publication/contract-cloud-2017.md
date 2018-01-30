@@ -14,7 +14,7 @@ title = "Cost-aware Resource Management for Federated Clouds Using Resource Shar
 url_code = ""
 url_dataset = ""
 url_pdf = "https://www.researchgate.net/publication/317097662_Cost-aware_Resource_Management_for_Federated_Clouds_Using_Resource_Sharing_Contracts"
-url_project = ""
+url_project = "project/contracts/"
 url_slides = "https://drive.google.com/file/d/0B9qw8YyWZEzKOTBuN3lOZ25PMXc/view?usp=sharing"
 url_video = ""
 

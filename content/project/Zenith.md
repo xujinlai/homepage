@@ -13,7 +13,7 @@ image_preview = "Zenith-Intro.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["edge"]
+tags = ["edge", "game-theory"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
