@@ -18,14 +18,13 @@ bio = "My research interests include Distributed Systems, Fog/Edge and Cloud Com
 organizations = [ { name = "University of Pittsburgh", url = "" } ]
 
 # List your academic interests.
-[interests]
-  interests = [
+interests = [
     "Fog/Edge Computing",
     "Cloud Computing",
     "Game Theory",
     "Computer Vision",
 	"Robotics"
-  ]
+]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
