@@ -33,9 +33,8 @@ box-shadow: 2px 2px 0 #999;
 }
 
 #profile .portrait {
-  background-image: url('../img/portrait.jpg');
   width: 200px;
-  height: 300px;
+  height: 200px;
   margin: 0 auto;
   border-radius: 3%;
   background-size: cover;
