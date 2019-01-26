@@ -20,13 +20,15 @@ weight = 60
 
 + **Teaching Assistant** , September 2015 - Present
 	+ **University of Pittsburgh**
-	    + Algorithm Design (2018 Fall) 
-		+ Instructor: Prof. [Hassan Karimi] (http://gis.sis.pitt.edu/)
-		+ Cloud Computing (2017 Spring, 2018 Spring)
+		+ Cloud Computing (2017 Spring, 2018 Spring, 2019 Spring)
+			+ Instructor: Prof. [Balaji Palanisamy](http://www.sis.pitt.edu/bpalan/)
 		+ Information Security & Privacy (2017 Fall)
-		+ Instructor: Prof. [Balaji Palanisamy](http://www.sis.pitt.edu/bpalan/)
+			+ Instructor: Prof. [Balaji Palanisamy](http://www.sis.pitt.edu/bpalan/)
+	    + Algorithm Design (2018 Fall) 
+			+ Instructor: Prof. [Hassan Karimi] (http://gis.sis.pitt.edu/)
+
 	
 + **Teaching Assistant** , September 2013 - January 2014
 	+ **China University of Geosciences**
 		+ Advanced Programming Language (JAVA)
-		+ Instructor: Prof. Shengwen Li
+			+ Instructor: Prof. Shengwen Li
