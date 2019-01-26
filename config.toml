@@ -140,58 +140,7 @@ defaultContentLanguageInSubdir = false
     'Book chapter'  # 6
   ]
 
-  # Social/Academic Networking
-  #
-  # Icon pack "fa" includes the following social network icons:
-  #
-  #   twitter, weibo, linkedin, github, facebook, pinterest, google-plus,
-  #   youtube, instagram, soundcloud
-  #
-  #   For email icon, use "fa" icon pack, "envelope" icon, and
-  #   "mailto:your@email.com" as the link.
-  #
-  #   Full list: https://fortawesome.github.io/Font-Awesome/icons/
-  #
-  # Icon pack "ai" includes the following academic network icons:
-  #
-  #   google-scholar, arxiv, orcid, researchgate, mendeley
-  #
-  #   Full list: https://jpswalsh.github.io/academicons/
 
-  [[params.social]]
-    icon = "envelope"
-    icon_pack = "fa"
-    link = "mailto:jinlai.xu@pitt.edu"
-
-  [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fab"
-    link = "//www.linkedin.com/in/jinlaixu"
-
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fab"
-    link = "//twitter.com/xujinlai"
-
-  [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.com/citations?user=OQjl2aIAAAAJ"
-
-	[[params.social]]
-    icon = "researchgate"
-    icon_pack = "ai"
-    link = "https://www.researchgate.net/profile/Jinlai_Xu"
-	
-	[[params.social]]
-    icon = "orcid"
-    icon_pack = "ai"
-    link = "https://orcid.org/0000-0003-0032-5481"
-
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fab"
-    link = "//github.com/xujinlai"
 
 
 # Navigation Links
