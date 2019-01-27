@@ -54,6 +54,6 @@ weight = 60
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "Python"
+  name = "R"
   description = "80%"
 +++
